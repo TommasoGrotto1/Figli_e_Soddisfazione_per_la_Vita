@@ -8,16 +8,6 @@ The aim of this repository is to showcase the analytical workflow I followed, in
 
 ---
 
-## Repository Structure
-
-Figli_e_Soddisfazione_per_la_Vita/
-    │
-    ├── Dofile.do                 # Stata script containing all steps of the analysis
-    └── Figli e felicità.pdf      # Final bachelor’s thesis (Italian)
-
-
----
-
 ## Research Overview
 
 The project explores:
